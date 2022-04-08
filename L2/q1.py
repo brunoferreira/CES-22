@@ -101,4 +101,5 @@ wn.onkey(move_down, "s")
 wn.onkey(move_left, "a")
 
 wn.listen() # Listen for events
+
 wn.mainloop()
